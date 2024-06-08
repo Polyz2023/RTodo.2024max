@@ -1,0 +1,19 @@
+{
+  "name": "TodoList",
+  "id": "id_1717829510460_j5x33tpq5",
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Task 1"
+    },
+    {
+      "id": 2,
+      "text": "Task 2"
+    },
+    {
+      "id": "id_1717829510014_0lz7pq4dv",
+      "text": "awf"
+    }
+  ],
+  "msg": "Hi! It is the save file for todo list, you see all date for this .json file. Go to the /download for download the file"
+}
